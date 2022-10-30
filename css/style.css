@@ -31,6 +31,10 @@ body {
     column-gap: 60px;
 }
 
+.header__logo {
+    flex: 0 0 130px;
+}
+
 .menu {
     flex: 1 1 auto;   
 }
@@ -186,6 +190,8 @@ body {
 }
 
 .advantures {
+    position: relative;
+    z-index: 2;
     display: flex;
     gap: 20px;
     justify-content: space-between;
