@@ -346,6 +346,8 @@ body {
 
 .about-page__image {
     flex: 0 1 50%;
+    position: relative;
+    z-index: 2;
 }
 
 .about-page__image img {
