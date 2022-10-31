@@ -24,7 +24,7 @@
     height: 100%;
     border-radius: 4px;
     opacity: 0;
-    background: linear-gradient(55.95deg, #ad2520 0%, #F75E05 100%);;
+    background: linear-gradient(55.95deg, #ad2520 0%, #F75E05 100%);
     transition: all 0.3s ease;
 }
 
