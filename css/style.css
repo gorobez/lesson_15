@@ -193,8 +193,7 @@ body {
     position: relative;
     z-index: 2;
     display: flex;
-    gap: 20px;
-    justify-content: space-between;
+    gap: 66px;
     align-items: center;
 }
 
