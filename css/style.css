@@ -193,7 +193,9 @@ body {
     position: relative;
     z-index: 2;
     display: flex;
-    gap: 66px;
+    flex-wrap: wrap;
+    column-gap: 66px;
+    row-gap:20px;
     align-items: center;
 }
 
